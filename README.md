@@ -32,4 +32,4 @@ I am a machine learning enthusiast and full stack developer with a strong passio
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nicoEXE"><img src="https://github-readme-stats.vercel.app/api?username=nicoEXE&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nico's GitHub stats" /></a>
+<a href="http://www.github.com/nicoEXE"><img src="https://github-readme-stats.vercel.app/api?username=nicoEXE&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="Nico's GitHub stats" /></a>
