@@ -1,15 +1,4 @@
-
-
-@font-face {
-  font-family: cf;
-  src: url('http://tide-check.rf.gd/font/fon.woff2');
-}
-
-.font {
-  font-family: cf;
-}
-
-<span class="font">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nico Escovilla</span>
+Nico Escovilla
 ======================================================================================================================================
 
 Software Developer 
