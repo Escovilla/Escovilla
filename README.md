@@ -1,5 +1,5 @@
 
-![Nico](https://raw.githubusercontent.com/nicoEXE/nicoEXE/main/NICOexe-removebg-preview.png)
+![Nico](https://github.com/nicoEXE/nicoEXE/blob/main/NICOexe-removebg-preview%20(1).png?raw=true)
 
 
 Software Developer 
