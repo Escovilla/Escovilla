@@ -1,4 +1,7 @@
-Nico Escovilla
+
+![Nico](https://raw.githubusercontent.com/nicoEXE/nicoEXE/main/NICOexe-removebg-preview.png)
+
+
 ======================================================================================================================================
 
 Software Developer 
