@@ -1,5 +1,4 @@
-
-Hi ![]([https://media4.giphy.com/media/SVH9y2LQUVVCRcqD7o/giphy.gif?cid=790b76117f9af96f13468c34205e0d206aba415c7827fd00&rid=giphy.gif&ct=g]([https://giphy.com/gifs/moodman-very-cool-SVH9y2LQUVVCRcqD7o](https://media4.giphy.com/media/SVH9y2LQUVVCRcqD7o/giphy.gif?cid=790b76117f9af96f13468c34205e0d206aba415c7827fd00&rid=giphy.gif&ct=g)))My name is Nico Escovilla
+Nico Escovilla
 ======================================================================================================================================
 
 Software Developer 
