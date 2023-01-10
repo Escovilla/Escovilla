@@ -1,6 +1,6 @@
 
 ![Nico](https://github.com/nicoEXE/nicoEXE/blob/main/NICOexe-removebg-preview%20(1).png?raw=true)
-
+![count](https://count-bawr.onrender.com/image)
 
 Software Developer 
 --------------------
