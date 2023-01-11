@@ -3,7 +3,7 @@
 ![count](https://count-bawr.onrender.com/image)
 
 Software Developer 
-![count](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=count&url=https%3A%2F%2Fcount-bawr.onrender.com%2Fcount)
+![count](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=count&url=https%3A%2F%2Fchocolate-perch-gown.cyclic.app%2Fcount)
 --------------------
 
 I am a machine learning enthusiast and full stack developer with a strong passion for using technology to solve real-world problems.
