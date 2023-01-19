@@ -1,5 +1,5 @@
 
-![Nico](https://github.com/nicoEXE/nicoEXE/blob/main/NICOexe-removebg-preview%20(1).png?raw=true)
+![Nico](https://github.com/nicoEXE/Escovilla/blob/main/NICOexe-removebg-preview%20(1).png?raw=true)
 ![count](https://chocolate-perch-gown.cyclic.app/image)
 
 Software Developer 
@@ -32,4 +32,4 @@ I am a machine learning enthusiast and full stack developer with a strong passio
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nicoEXE"><img src="https://github-readme-stats-ruby-one.vercel.app/api?username=nicoEXE&theme=outrun&show_icons=true&hide=prs,issues,contribs&show_icons=true" alt="Nico's GitHub stats" /></a>
+<a href="http://www.github.com/Escovilla"><img src="https://github-readme-stats-ruby-one.vercel.app/api?username=nicoEXE&theme=outrun&show_icons=true&hide=prs,issues,contribs&show_icons=true" alt="Nico's GitHub stats" /></a>
