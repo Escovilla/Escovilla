@@ -1,5 +1,5 @@
 
-![Nico](https://github.com/nicoEXE/Escovilla/blob/main/NICOexe-removebg-preview%20(1).png?raw=true)
+![Nico](https://github.com/Escovilla/blob/main/NICOexe-removebg-preview%20(1).png?raw=true)
 ![count](https://chocolate-perch-gown.cyclic.app/image)
 
 Software Developer 
