@@ -1,10 +1,8 @@
 
 ![Nico](https://raw.githubusercontent.com/Escovilla/Escovilla/main/NICOexe-removebg-preview%20(1).png)
-
-![count](https://chocolate-perch-gown.cyclic.app/image)
-
+<!-- ![count](https://chocolate-perch-gown.cyclic.app/image) -->
 # Software Engineer ![](https://komarev.com/ghpvc/?username=Escovilla)
-![count](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=count&url=https://enchanting-mite-sheath-dress.cyclic.app/count)
+<!-- ![count](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=count&url=https://enchanting-mite-sheath-dress.cyclic.app/count) -->
 
 <!-- -------------------- -->
 
