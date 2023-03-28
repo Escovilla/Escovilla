@@ -4,7 +4,7 @@
 ![count](https://chocolate-perch-gown.cyclic.app/image)
 
 Software Developer 
-![count](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=count&url=https://enchanting-mite-sheath-dress.cyclic.app/count)
+<!-- ![count](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=count&url=https://enchanting-mite-sheath-dress.cyclic.app/count) -->
 ![](https://komarev.com/ghpvc/?username=Escovilla)
 --------------------
 
@@ -32,6 +32,7 @@ I am a machine learning enthusiast and full stack developer with a strong passio
 <a href="http://linkedin.com/in/nico-escovilla-356596158" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b> -->
 
-<a href="http://www.github.com/Escovilla"><img src="https://github-readme-stats-ruby-one.vercel.app/api?username=Escovilla&theme=outrun&show_icons=true&hide=prs,issues,contribs&show_icons=true" alt="Nico's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/Escovilla"><img src="https://github-readme-stats-ruby-one.vercel.app/api?username=Escovilla&theme=outrun&show_icons=true&hide=prs,issues,contribs&show_icons=true" alt="Nico's GitHub stats" /></a>
+ -->
