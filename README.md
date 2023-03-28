@@ -1,8 +1,7 @@
 
 ![Nico](https://raw.githubusercontent.com/Escovilla/Escovilla/main/NICOexe-removebg-preview%20(1).png)
-const timestamp = new Date().getTime(); // get current timestamp
-const imageUrl = `https://chocolate-perch-gown.cyclic.app/image?timestamp=${timestamp}`;
-![count](imageUrl)
+
+![count]([imageUrl](https://chocolate-perch-gown.cyclic.app/image)
 
 Software Developer 
 ![count](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=count&url=https://enchanting-mite-sheath-dress.cyclic.app/count)
