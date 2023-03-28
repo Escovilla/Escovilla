@@ -3,9 +3,9 @@
 
 ![count](https://chocolate-perch-gown.cyclic.app/image)
 
-## Software Engineer 
+## Software Engineer ![](https://komarev.com/ghpvc/?username=Escovilla)
 <!-- ![count](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=count&url=https://enchanting-mite-sheath-dress.cyclic.app/count) -->
-![](https://komarev.com/ghpvc/?username=Escovilla)
+
 --------------------
 
 I am a machine learning enthusiast and full stack developer with a strong passion for using technology to solve real-world problems.
