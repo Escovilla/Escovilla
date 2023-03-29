@@ -33,6 +33,7 @@ I am a machine learning enthusiast and full stack developer with a strong passio
 <a href="http://linkedin.com/in/nico-escovilla-356596158" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+[![Nico's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Escovilla&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- <b>My GitHub Stats</b> -->
 
 <!-- <a href="http://www.github.com/Escovilla"><img src="https://github-readme-stats-ruby-one.vercel.app/api?username=Escovilla&theme=outrun&show_icons=true&hide=prs,issues,contribs&show_icons=true" alt="Nico's GitHub stats" /></a>
