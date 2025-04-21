@@ -1,5 +1,5 @@
 
-![Nico](https://raw.githubusercontent.com/Escovilla/Escovilla/main/NICOexe-removebg-preview%20(1).png)
+[![Nico](https://raw.githubusercontent.com/Escovilla/Escovilla/main/NICOexe-removebg-preview%20(1).png)](https://escovilla.dev/)
 
 
 
@@ -7,7 +7,8 @@
 <!-- ![count](https://chocolate-perch-gown.cyclic.app/image)
 ![count](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=count&url=https://enchanting-mite-sheath-dress.cyclic.app/count) -->
 
-# Software Guy ![](https://komarev.com/ghpvc/?username=Escovilla)
+# Software Guy ![Software Guy](https://escovilla.dev/)
+<p align="left"> <a href="https://escovilla.dev/" target="_blank" rel="noreferrer">
 
 
 
