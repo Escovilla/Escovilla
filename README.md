@@ -4,19 +4,21 @@
 <!-- ![count](https://chocolate-perch-gown.cyclic.app/image)
 ![count](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=count&url=https://enchanting-mite-sheath-dress.cyclic.app/count) -->
 
-# Software Engineer ![](https://komarev.com/ghpvc/?username=Escovilla)
+#Grandmaster Software Magician ![](https://komarev.com/ghpvc/?username=Escovilla)
 
 ## 🌍 About Me
-- 📍 Based in the Philippines  
-- 🧠 Passionate about machine learning, 3D, and solving real-world problems  
-- 🛠️ Currently building ML-powered web experiences  
-- 🔁 Always learning, always experimenting  
+- 📍 Calling the Philippines home  
+- 🧠 Brain wired for solving problems, heart set on building things that *actually* work  
+- 🛠️ I create web experiences that are smart, interactive, and sometimes a little 3D-flavored  
+- 🧪 Always cooking up experiments — some wild, some useful, often both  
 
 ## 🤝 Let’s Collaborate
-I’m open to teaming up on:
-- Innovative ML or AI projects  
-- Creative applications of 3D tech on the web  
-- Anything weird, useful, or just plain cool  
+Got a wild idea? A quirky challenge? Or something that just needs a fresh perspective?
+
+Let’s team up on:
+- Web projects that need brains *and* style  
+- 3D adventures in the browser  
+- Anything clever, useful, or delightfully weird  
 
 Reach out — I’d love to hear about what you’re working on!
 ### Skills
