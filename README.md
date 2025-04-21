@@ -7,7 +7,7 @@
 <!-- ![count](https://chocolate-perch-gown.cyclic.app/image)
 ![count](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=count&url=https://enchanting-mite-sheath-dress.cyclic.app/count) -->
 
-#![Software Guy](https://escovilla.dev/)
+# Software Guy
 
 
 
