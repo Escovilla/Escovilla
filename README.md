@@ -7,10 +7,10 @@
 # Grandmaster Software Magician ![](https://komarev.com/ghpvc/?username=Escovilla)
 
 ## 🌍 About Me
-- 📍 Calling the Philippines home  
-- 🧠 Brain wired for solving problems, heart set on building things that *actually* work  
-- 🛠️ I create web experiences that are smart, interactive, and sometimes a little 3D-flavored  
-- 🧪 Always cooking up experiments — some wild, some useful, often both  
+- Calling the Philippines home  
+- Brain wired for solving problems, heart set on building things that *actually* work  
+- I create web experiences that are smart, interactive, and sometimes a little 3D-flavored  
+- Always cooking up experiments — some wild, some useful, often both  
 
 ## 🤝 Let’s Collaborate
 Got a wild idea? A quirky challenge? Or something that just needs a fresh perspective?
